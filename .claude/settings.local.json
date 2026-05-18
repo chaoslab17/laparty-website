@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /tmp/la-party/project/tweaks-panel.jsx /Users/chia-weiwu/code/lapartysite/tweaks-panel.jsx)",
+      "Bash(cp /tmp/la-party/project/nav.jsx /Users/chia-weiwu/code/lapartysite/nav.jsx)",
+      "Bash(cp /tmp/la-party/project/search.jsx /Users/chia-weiwu/code/lapartysite/search.jsx)",
+      "Bash(cp /tmp/la-party/project/hero.jsx /Users/chia-weiwu/code/lapartysite/hero.jsx)",
+      "Bash(cp /tmp/la-party/project/products-data.jsx /Users/chia-weiwu/code/lapartysite/products-data.jsx)",
+      "Bash(cp /tmp/la-party/project/logo.png /Users/chia-weiwu/code/lapartysite/logo.png && echo \"logo copied\" && ls -la /Users/chia-weiwu/code/lapartysite/)",
+      "Bash(ls /Users/chia-weiwu/code/lapartysite/src/components/ && ls /tmp/la-party/ 2>/dev/null || echo \"no tmp\")",
+      "Read(//private/tmp/la-party/**)",
+      "Bash(npm install *)",
+      "Bash(npx vite *)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(curl -s http://localhost:5173/products)",
+      "Bash(curl -s http://localhost:5173/products/flat-poly-bag)",
+      "Bash(node -e \"console.log\\(require\\('./node_modules/@types/react/package.json'\\).version\\)\")",
+      "Bash(node -e ' *)",
+      "Bash(npm run *)",
+      "Bash(mv /Users/chia-weiwu/code/lapartysite/locales /Users/chia-weiwu/code/lapartysite/public/locales)",
+      "Bash(git -C /Users/chia-weiwu/code/lapartysite remote -v)"
+    ],
+    "additionalDirectories": [
+      "/private/tmp/la-party/project",
+      "/Users/chia-weiwu/code/lapartysite/locales"
+    ]
+  }
+}
