@@ -1,0 +1,275 @@
+{
+  "nav": {
+    "industries": "Industries",
+    "capabilities": "Capabilities",
+    "operations": "Operations",
+    "company": "Company",
+    "searchPlaceholder": "Search products, capabilities…",
+    "requestQuote": "Request quote",
+    "mega": {
+      "products": {
+        "items": [
+          { "title": "Industrial Packaging",    "sub": "Flat poly, gusseted, anti-static, parts, vacuum & zipper bags" },
+          { "title": "Food Service Packaging",  "sub": "T-shirt, produce, ice, bakery, die-cut, PP woven & non-woven" },
+          { "title": "Healthcare Packaging",    "sub": "Specimen, biohazard, chemotherapy & patient belonging bags" },
+          { "title": "Co-Extruded Mailers",     "sub": "Bubble mailer, poly mailer & 3-layer coex envelopes" },
+          { "title": "Security & Deposit Bags", "sub": "Tamper-evident currency, bank & evidence packaging" },
+          { "title": "Sustainable Lines",       "sub": "PCR, biodegradable & recyclable mono-material films" }
+        ],
+        "footnote": "180+ stock SKUs · Custom OEM available across every category",
+        "browseCatalog": "Browse catalog"
+      },
+      "capabilities": {
+        "items": [
+          { "title": "Film Extrusion",         "sub": "Mono- & co-extruded LDPE, LLDPE, HDPE up to 5 layers" },
+          { "title": "OEM Converting",         "sub": "Heat-seal, side-weld, bottom-weld, die-cut, gusseting" },
+          { "title": "Flexographic Printing",  "sub": "Up to 8-color in-line printing, photographic registration" },
+          { "title": "Quality & Compliance",   "sub": "FDA, ISO 9001, BRC, ASTM static & migration testing" },
+          { "title": "Sustainability Program", "sub": "PCR feedstock, EN 13432 biodegradable, mono-material" },
+          { "title": "Global Logistics",       "sub": "DDP, CIF, FOB — direct from Tainan & Binh Duong" }
+        ],
+        "footnote": "Two plants. 12,000+ tons of film processed annually. ISO 9001 certified.",
+        "talkToOps": "Talk to operations"
+      }
+    }
+  },
+  "hero": {
+    "eyebrow": "Engineered Poly Bag Manufacturing · Est. 1995 · Tainan, Taiwan",
+    "h1": "Plastic packaging, engineered for the industries that depend on it.",
+    "lead": "La Party manufactures specification-grade poly bags for industrial, food service, healthcare, mailer and security packaging — from two integrated plants in Tainan and Binh Duong, Vietnam.",
+    "cta1": "Request a quote",
+    "cta2": "Download product catalog",
+    "trust": {
+      "label": "Certified, audited & trusted across categories:",
+      "iso": "ISO 9001 quality systems",
+      "fda": "FDA Food-contact compliant",
+      "astm": "ASTM D257 anti-static",
+      "sgs": "SGS Annually audited"
+    },
+    "dashboard": {
+      "extrusionLive": "Extrusion · Live",
+      "tonsLabel": "of film processed this month",
+      "trend": "+12.4% vs. last month · OEE 89%",
+      "extrusionLines": "Extrusion lines",
+      "avgLeadTime": "Avg. lead time",
+      "avgLeadTimeValue": "21 days",
+      "inTransit": "In transit",
+      "from": "Kaohsiung, TW",
+      "to": "Long Beach, US",
+      "eta": "ETA Day 18",
+      "skuName": "Specimen Bag w/ Pad",
+      "moq": "MOQ",
+      "lead": "Lead",
+      "score": "Score",
+      "qcPass": "QC batch · pass",
+      "filmGauge": "Film gauge",
+      "filmGaugeValue": "within ±3μm",
+      "sealStrength": "Seal strength",
+      "sealValue": "42 N/15mm",
+      "migrationTest": "Migration test",
+      "migrationValue": "FDA 21 CFR",
+      "status": "TW + VN · 18 lines online"
+    }
+  },
+  "stats": {
+    "eyebrow": "Operations & Footprint",
+    "heading": "Two plants. One operational layer. 30+ markets you can plan and audit against.",
+    "meta": "Metrics from <highlight>April 2026</highlight>, refreshed monthly from our production data warehouse.",
+    "items": [
+      { "label": "Film processed annually",  "sub": "Across 20 extrusion lines in 2 plants",          "trend": "+8.1% YoY" },
+      { "label": "Markets served",           "sub": "DDP, CIF & FOB fulfillment from TW & VN",        "trend": "+4 markets in 2025" },
+      { "label": "On-time delivery rate",    "sub": "Trailing 12-month average",                       "trend": "Industry avg. 92.1%" },
+      { "label": "Manufacturing heritage",   "sub": "Established Tainan, 1995",                        "trend": "ISO 9001 since 2001" }
+    ]
+  },
+  "capabilities": {
+    "eyebrow": "Manufacturing Capabilities",
+    "heading": "A vertically integrated film & bag manufacturer.",
+    "lead": "Six integrated capability areas — from polymer to finished, printed, packed bag — so customers can specify a single OEM partner from extrusion to export.",
+    "items": [
+      {
+        "title": "Film extrusion & co-extrusion",
+        "desc": "Mono- and multi-layer blown film extrusion across LDPE, LLDPE, HDPE and barrier resins — up to 5 layers.",
+        "bullets": ["Gauge range 8μm – 200μm", "Up to 5-layer co-extruded film", "20 extrusion lines across TW + VN", "12,000+ tons processed annually"]
+      },
+      {
+        "title": "Converting & OEM finishing",
+        "desc": "Bag conversion, sealing, slitting, gusseting, die-cutting and assembly — all under one roof.",
+        "bullets": ["Heat-seal, side-weld, bottom-weld", "Die-cut, gusseted, wicketed", "Zipper, slider & valve insertion", "Custom sizes from 3×4 to 36×60 in."]
+      },
+      {
+        "title": "Flexographic printing",
+        "desc": "In-line flexo printing up to 8 colors with photographic-grade registration and ink kitchen color matching.",
+        "bullets": ["Up to 8-color in-line flexo", "Pantone color matching", "Reverse and surface printing", "Low-migration food-safe inks"]
+      },
+      {
+        "title": "Quality & compliance",
+        "desc": "In-house lab testing for gauge, seal strength, drop, migration, surface resistivity and chemical compatibility.",
+        "bullets": ["ISO 9001 quality system", "FDA 21 CFR food-contact", "ASTM D257 anti-static testing", "UN3373 specimen-grade compliance"]
+      },
+      {
+        "title": "Sustainable materials",
+        "desc": "Post-consumer recycled resins, biodegradable additives and mono-material redesigns for recyclability.",
+        "bullets": ["PCR-LDPE up to 50% loading", "Oxo- and bio-based additives (EN 13432)", "Mono-material recyclable systems", "Carbon footprint reporting per SKU"]
+      },
+      {
+        "title": "Global logistics",
+        "desc": "Direct container shipping from Kaohsiung and Ho Chi Minh ports — DDP, CIF and FOB to 30+ markets.",
+        "bullets": ["FCL & LCL container shipping", "Customs documentation included", "DDP fulfillment to NA & EU", "Bonded consolidation available"]
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "OEM Process",
+    "heading": "From spec sheet to container loaded — typically in 49 days.",
+    "lead": "A structured four-phase program with defined SLAs, sample approval gates and a single program manager from kickoff through shipment.",
+    "scheduleBtn": "Schedule a kickoff",
+    "steps": [
+      { "title": "Brief & Spec",      "desc": "Send us your bag dimensions, material, gauge, print and volume forecast. We respond in 48h with feasibility & quote.", "milestone": "DAY 1 – 3" },
+      { "title": "Sample & Approve",  "desc": "Physical samples and print proofs delivered within two weeks. Iterate on material, seal type and artwork.",             "milestone": "DAY 4 – 14" },
+      { "title": "Extrude & Convert", "desc": "Film extrusion, printing, bag conversion and 100% QC inspection — with batch traceability.",                           "milestone": "DAY 15 – 35" },
+      { "title": "Pack & Ship",       "desc": "Container loading at Kaohsiung or Ho Chi Minh and door-to-door logistics with live tracking.",                          "milestone": "DAY 36 – 49" }
+    ],
+    "features": [
+      { "title": "48-hour quote response",     "sub": "Engineering review on every inbound RFQ — never an autoreply." },
+      { "title": "Full documentation pack",    "sub": "Material certs, migration tests, dieline and print proofs at handover." },
+      { "title": "Dedicated program manager",  "sub": "One person, one timezone, English & Mandarin — never an inbox." }
+    ]
+  },
+  "cta": {
+    "badge": "Open for new programs · Q3 2026 capacity",
+    "heading": "Bring your bag program to a Taiwan-grade manufacturer.",
+    "lead": "Send us your spec sheet, target markets and annual volume. A packaging engineer responds within 48 hours with feasibility and an indicative quote.",
+    "requestQuote": "Request a quote",
+    "bookCall": "Book a 30-min call",
+    "stat48h": "48h",
+    "rfqSla": "RFQ response SLA",
+    "stat14d": "14d",
+    "sampleTurnaround": "Sample turnaround",
+    "stat20k": "20k",
+    "typicalMoq": "Typical MOQ (pcs)",
+    "form": {
+      "firstName": "First name",
+      "firstNamePlaceholder": "Alex",
+      "company": "Company",
+      "companyPlaceholder": "Brand Co.",
+      "email": "Work email",
+      "emailPlaceholder": "alex@brand.com",
+      "industry": "Industry",
+      "industryPlaceholder": "Select category…",
+      "annualVolume": "Annual volume",
+      "volumePlaceholder": "Select…",
+      "targetMarket": "Target market",
+      "marketPlaceholder": "Region…",
+      "submit": "Request a quote →",
+      "legal": "By submitting, you agree to our privacy policy. We respond in 48h, never share data with third parties.",
+      "industries": ["Industrial packaging", "Food service", "Healthcare & medical", "E-commerce & mailers", "Security & deposit", "Other"],
+      "volumes": ["< 50K units", "50K – 250K", "250K – 1M", "1M+"],
+      "markets": ["North America", "Europe", "Asia Pacific", "Global"]
+    },
+    "success": {
+      "title": "Brief received.",
+      "message": "A packaging engineer will respond within 48 hours with a feasibility note and indicative quote."
+    }
+  },
+  "footer": {
+    "description": "A Taiwan-based plastic bag manufacturer producing specification-grade poly bags for industrial, foodservice, healthcare and security applications since 1995.",
+    "hq": "HQ — Tainan, Taiwan",
+    "hqLine1": "No. 625, Datong St., Yung Kang Dist.",
+    "hqLine2": "Tainan City 710, Taiwan (R.O.C.)",
+    "vn": "Vietnam Plant — Binh Duong",
+    "vnLine1": "Long Thanh Hamlet, Long Nguyen Commune,",
+    "vnLine2": "Bau Bang District, Binh Duong",
+    "cols": {
+      "industries": "Industries",
+      "industriesList": ["Industrial packaging", "Food service packaging", "Healthcare packaging", "Co-extruded mailers", "Security & deposit", "Sustainable lines"],
+      "capabilities": "Capabilities",
+      "capabilitiesList": ["Film extrusion", "Co-extrusion (5-layer)", "Flexographic printing", "Bag converting", "Quality & compliance"],
+      "company": "Company",
+      "companyList": ["About", "Facilities (TW + VN)", "Careers"]
+    },
+    "copyright": "© 2026 La Party Corporation · Tainan, Taiwan (R.O.C.)",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "localeLabel": "English · USD"
+  },
+  "products": {
+    "eyebrow": "Product Catalog",
+    "heading": "The complete La Party catalog. {{count}} specification-grade bag products.",
+    "lead": "Five product families — Industrial, Food Service, Healthcare, Mailer and Security/Deposit — each available in stock specifications and full OEM customization (size, gauge, material, print and closures).",
+    "cats": {
+      "All": "All",
+      "Industrial": "Industrial",
+      "Food Service": "Food Service",
+      "Healthcare": "Healthcare",
+      "Mailers": "Mailers",
+      "Security": "Security"
+    },
+    "viewDetails": "View product details",
+    "showAll": "Show all {{count}} products",
+    "showing": "Showing {{visible}} of {{total}} products",
+    "showingInCat": "Showing {{visible}} of {{total}} products in {{cat}}"
+  },
+  "search": {
+    "placeholder": "Search products, capabilities, certifications, regions…",
+    "noResults": "No results for \"{{q}}\". Try \"mailer\", \"specimen\", \"anti-static\", or \"Vietnam\".",
+    "hints": "↑↓ Navigate · ⏎ Open · ESC Close",
+    "shortcuts": "Press ? for shortcuts",
+    "groups": {
+      "Products": "Products",
+      "Capabilities": "Capabilities",
+      "Company": "Company"
+    },
+    "items": {
+      "filmExtrusion": "Film extrusion & co-extrusion",
+      "filmExtrusionSub": "Up to 5 layers · 8μm–200μm gauge",
+      "flexoPrinting": "Flexographic printing",
+      "flexoPrintingSub": "8-color in-line · Pantone matching",
+      "sustainable": "Sustainable materials",
+      "sustainableSub": "PCR-LDPE · EN 13432 biodegradable",
+      "about": "About La Party · 31-year history",
+      "aboutSub": "Tainan HQ · Binh Duong, VN plant",
+      "contact": "Contact our team",
+      "contactSub": "Americas · EMEA · APAC offices"
+    }
+  },
+  "productDetail": {
+    "notFound": "Product not found",
+    "notFoundH1": "That product isn't in our catalog.",
+    "notFoundLead": "The product you're looking for may have moved or been renamed. Browse the full {{count}}-product catalog below.",
+    "browseCatalog": "Browse catalog",
+    "keyFeatures": "Key features",
+    "requestQuote": "Request a quote",
+    "breadcrumbHome": "Home",
+    "breadcrumbProducts": "Products",
+    "artKind": "Kind",
+    "artFamily": "Family",
+    "specsEyebrow": "Specifications",
+    "specsHeading": "Built to your specification.",
+    "specsLead": "Every La Party bag is engineered for the specific dimensions, gauge, material grade, print, and closure your operation requires. Below is a typical specification envelope for the {{name}}.",
+    "specKeys": {
+      "Product family": "Product family",
+      "Material": "Material",
+      "Gauge range": "Gauge range",
+      "Closure": "Closure",
+      "Print": "Print",
+      "Sizes": "Sizes",
+      "MOQ": "MOQ",
+      "Lead time": "Lead time",
+      "Manufacturing": "Manufacturing",
+      "Compliance": "Compliance"
+    },
+    "processEyebrow": "From spec to ship",
+    "processHeading": "How we manufacture this product.",
+    "processSteps": [
+      { "title": "Brief & spec",      "desc": "Share dimensions, gauge, print and target volume." },
+      { "title": "Sample",            "desc": "Physical sample and print proof within 14 days." },
+      { "title": "Extrude & convert", "desc": "Film extrusion, printing, conversion under one roof." },
+      { "title": "QC & pack",         "desc": "100% inspection and container loading from TW or VN." }
+    ],
+    "relatedEyebrow": "Related in {{cat}}",
+    "relatedHeading": "More from this family.",
+    "relatedSeeAll": "See all {{cat}} products"
+  }
+}

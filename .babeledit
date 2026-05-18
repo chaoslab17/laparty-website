@@ -1,0 +1,10 @@
+{
+  "version": "5.0",
+  "projects": [
+    {
+      "name": "lapartysite",
+      "path": "locales",
+      "babelStyle": "nested"
+    }
+  ]
+}
