@@ -12,7 +12,7 @@ i18n
     fallbackLng: 'en',
     defaultNS: 'translation',
     backend: {
-      loadPath: '/locales/{{lng}}/{{ns}}.json',
+      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}/{{ns}}.json`,
     },
     detection: {
       order: ['localStorage', 'navigator'],
